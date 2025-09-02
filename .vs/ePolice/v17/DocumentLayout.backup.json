@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{840D6D4B-02DC-49F7-98C7-7C1FAF62293E}|EPOLICE.csproj|c:\\users\\vezul\\onedrive\\supporting documents\\epolice\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{840D6D4B-02DC-49F7-98C7-7C1FAF62293E}|EPOLICE.csproj|solutionrelative:homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840D6D4B-02DC-49F7-98C7-7C1FAF62293E}|EPOLICE.csproj|C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840D6D4B-02DC-49F7-98C7-7C1FAF62293E}|EPOLICE.csproj|solutionrelative:homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840D6D4B-02DC-49F7-98C7-7C1FAF62293E}|EPOLICE.csproj|C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{840D6D4B-02DC-49F7-98C7-7C1FAF62293E}|EPOLICE.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840D6D4B-02DC-49F7-98C7-7C1FAF62293E}|EPOLICE.csproj|C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840D6D4B-02DC-49F7-98C7-7C1FAF62293E}|EPOLICE.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840D6D4B-02DC-49F7-98C7-7C1FAF62293E}|EPOLICE.csproj|C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840D6D4B-02DC-49F7-98C7-7C1FAF62293E}|EPOLICE.csproj|solutionrelative:login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840D6D4B-02DC-49F7-98C7-7C1FAF62293E}|EPOLICE.csproj|C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840D6D4B-02DC-49F7-98C7-7C1FAF62293E}|EPOLICE.csproj|solutionrelative:registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840D6D4B-02DC-49F7-98C7-7C1FAF62293E}|EPOLICE.csproj|C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{840D6D4B-02DC-49F7-98C7-7C1FAF62293E}|EPOLICE.csproj|solutionrelative:registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840D6D4B-02DC-49F7-98C7-7C1FAF62293E}|EPOLICE.csproj|C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\registration.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840D6D4B-02DC-49F7-98C7-7C1FAF62293E}|EPOLICE.csproj|solutionrelative:registration.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840D6D4B-02DC-49F7-98C7-7C1FAF62293E}|EPOLICE.csproj|C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{840D6D4B-02DC-49F7-98C7-7C1FAF62293E}|EPOLICE.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840D6D4B-02DC-49F7-98C7-7C1FAF62293E}|EPOLICE.csproj|C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\homepage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840D6D4B-02DC-49F7-98C7-7C1FAF62293E}|EPOLICE.csproj|solutionrelative:homepage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Homepage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\Homepage.aspx.cs",
+              "RelativeDocumentMoniker": "Homepage.aspx.cs",
+              "ToolTip": "C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\Homepage.aspx.cs",
+              "RelativeToolTip": "Homepage.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwDcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T01:59:28.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Homepage.aspx",
+              "DocumentMoniker": "C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\Homepage.aspx",
+              "RelativeDocumentMoniker": "Homepage.aspx",
+              "ToolTip": "C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\Homepage.aspx*",
+              "RelativeToolTip": "Homepage.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-21T01:57:05.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\Login.aspx",
+              "RelativeDocumentMoniker": "Login.aspx",
+              "ToolTip": "C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\Login.aspx",
+              "RelativeToolTip": "Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-29T22:32:03.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwD8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T16:42:36.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Login.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\Login.aspx.designer.cs",
+              "RelativeToolTip": "Login.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:09:53.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Registration.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\Registration.aspx.cs",
+              "RelativeDocumentMoniker": "Registration.aspx.cs",
+              "ToolTip": "C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\Registration.aspx.cs",
+              "RelativeToolTip": "Registration.aspx.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwC8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T15:31:14.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registration.aspx",
+              "DocumentMoniker": "C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\Registration.aspx",
+              "RelativeDocumentMoniker": "Registration.aspx",
+              "ToolTip": "C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\Registration.aspx",
+              "RelativeToolTip": "Registration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-25T15:29:49.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Homepage.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\Homepage.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Homepage.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\Homepage.aspx.designer.cs",
+              "RelativeToolTip": "Homepage.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwKQDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:51:32.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registration.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\Registration.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Registration.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\Registration.aspx.designer.cs",
+              "RelativeToolTip": "Registration.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T16:32:29.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\vezul\\OneDrive\\Supporting Documents\\ePolice\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-21T01:59:03.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
