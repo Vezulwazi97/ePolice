@@ -4,9 +4,10 @@ This project demonstrates practical skills in C# application development, databa
 
 Objectives
 Digitally manage police case records in a structured and secure manner
+
 Improve data organisation, accuracy, and retrieval efficiency
+
 Apply real-world software engineering principles learned in coursework
+
 Create, view, update, and delete police case records (CRUD operations)
-Structured storage of case-related data in a relational database
-User-friendly interface for interacting with case information
-Data integrity enforced through relational database design
+
