@@ -3,6 +3,7 @@ It replaces manual or fragmented record-keeping with a structured, database-driv
 This project demonstrates practical skills in C# application development, database design, and CRUD-based system architecture.
 
 Objectives
+
 Digitally manage police case records in a structured and secure manner
 
 Improve data organisation, accuracy, and retrieval efficiency
